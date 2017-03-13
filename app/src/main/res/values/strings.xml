@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2Ejercicio3</string>
+    <string name="titulo">Asteroides</string>
+    <string name="btjugar">Jugar</string>
+    <string name="btconfig">Configuración</string>
+    <string name="btacerca">Acerca de</string>
+    <string name="btsalir">Salir</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2Ejercice3</string>
+    <string name="titulo">Asteroids</string>
+    <string name="btjugar">Play</string>
+    <string name="btconfig">Configuration</string>
+    <string name="btacerca">About</string>
+    <string name="btsalir">Exit</string>
+</resources>
